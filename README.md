@@ -1,2 +1,48 @@
-# contributors
-Contributors building the Mycroft open source project
+Mycroft is a community effort and only exists due to the work and
+contributions of the talented people listed here.  Thank you!
+
+The list below consists of everyone who has signed a CLA via
+https://mycroft.ai/cla, gifting their efforts to the community.
+Contributions span all the repositories under the MycroftAI Github
+organization.
+
+---
+    Joshua Montgomery (joshua-montgomery)
+    Arron Atchison (aatchison)
+    Jonathan D'Orleans (jdorleans)
+    clusterfudge
+    Ake Forslund (forslund)
+    Matthew Scholefield (MatthewScholefield)
+    Ethan Ward (ethanaward)
+    Isaac Ward (isaacnward)
+    Steve Penrod (penrods)
+    the7erm
+    August Monteiro (augustnmonteiro)
+    Christopher Vella (chrisvella)
+    ParkerMc
+    Christopher Martin (tmajibon)
+    Matheus Lima Mota (matheuslima)
+    Joel Bradshaw (cincodenada)
+    Luca Weiss (z3ntu)
+    Greg McCoy (gregmccoy)
+    Mattias Larsson (Matlar)
+    Neal McBurnett (nealmcb)
+    Teagan42
+    Manoj Kumar Palavalasa (manojDevOps)
+    Mn0491
+    Karl Fezer (kfezer)
+    Harika Kothuru (Harika-kothuru)
+    Willem Ligtenberg	(wligtenberg)
+    William Cesar Santos Silva (williamcaesar)
+    Connor Foley Penrod	(connor-penrod)
+    ashwinjv
+    Ante Kegalj	(akegalj)
+    Sujan4k0
+    el-tocino
+    Sergio Oller Moreno	(zeehio)
+    Brian Hopkins	(btotharye)
+    TREE-edu
+    Aditya Mehra (AIIX)
+    JarbasAI
+    
+    
