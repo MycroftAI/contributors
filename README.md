@@ -32,15 +32,15 @@ organization.
     Mn0491
     Karl Fezer (kfezer)
     Harika Kothuru (Harika-kothuru)
-    Willem Ligtenberg	(wligtenberg)
+    Willem Ligtenberg (wligtenberg)
     William Cesar Santos Silva (williamcaesar)
-    Connor Foley Penrod	(connor-penrod)
+    Connor Foley Penrod (connor-penrod)
     ashwinjv
-    Ante Kegalj	(akegalj)
+    Ante Kegalj (akegalj)
     Sujan4k0
     el-tocino
-    Sergio Oller Moreno	(zeehio)
-    Brian Hopkins	(btotharye)
+    Sergio Oller Moreno (zeehio)
+    Brian Hopkins (btotharye)
     TREE-edu
     Aditya Mehra (AIIX)
     JarbasAI
