@@ -44,5 +44,6 @@ organization.
     TREE-edu
     Aditya Mehra (AIIX)
     JarbasAI
-    
+    Paul Scott (paulscott56)
+    Joshua McDonald (joshymcd)
     
