@@ -47,5 +47,6 @@ organization.
     Paul Scott (paulscott56)
     Joshua McDonald (joshymcd)
     Liviu Vasut (liviu-vasut)
-    Léonard Pradier (@lezohtml)
-    
+    Léonard Pradier (lezohtml)
+    azie-ginanjar
+    Emil Soleyman-Zomalan (esoleyman)
