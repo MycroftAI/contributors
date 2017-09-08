@@ -51,4 +51,4 @@ organization.
     azie-ginanjar
     Emil Soleyman-Zomalan (esoleyman)
     00tiagopolicarpo00
-    Edward Napier (trasz)
+    Edward Tomasz Napierała (trasz)
