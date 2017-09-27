@@ -55,3 +55,5 @@ organization.
     Sirivella Madhu (sirivellamadhu)
     Katherine Reid (KathyReid)
     Igor Vuk (ivuk)
+    valdr
+    Anunay Jain (Anunayj)
