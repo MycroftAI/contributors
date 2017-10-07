@@ -57,3 +57,5 @@ organization.
     Igor Vuk (ivuk)
     valdr
     Anunay Jain (Anunayj)
+    Harald Sitter (apachelogger)
+    James Rhett Aultman (roadriverrail)
