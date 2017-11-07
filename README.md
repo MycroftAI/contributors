@@ -62,3 +62,4 @@ organization.
     Jonas Blahut (DarkPhoenix)
     gras64
     Anusree Kailash (akailash)
+    Tobias Knöppler (theCalcaholic)
