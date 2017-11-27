@@ -66,3 +66,6 @@ organization.
     Andrew Hayworth (ahayworth)
     gauravMann
     gryoung
+    Tassos Hourmouziadis (tassosh)
+    SUSE Linux, Gmbh; Antonio Larossa Jiménez (antlarr-suse)
+    
