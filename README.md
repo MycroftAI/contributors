@@ -68,4 +68,4 @@ organization.
     gryoung
     Tassos Hourmouziadis (tassosh)
     SUSE Linux, Gmbh; Antonio Larossa Jiménez (antlarr-suse)
-    
+    the-kid89
