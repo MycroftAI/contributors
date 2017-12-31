@@ -10,7 +10,7 @@ organization.
     Joshua Montgomery (joshua-montgomery)
     Arron Atchison (aatchison)
     Jonathan D'Orleans (jdorleans)
-    clusterfudge
+    Sean Fitzgerald (clusterfudge)
     Ake Forslund (forslund)
     Matthew Scholefield (MatthewScholefield)
     Ethan Ward (ethanaward)
