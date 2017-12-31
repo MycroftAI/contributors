@@ -69,3 +69,6 @@ organization.
     Tassos Hourmouziadis (tassosh)
     SUSE Linux, Gmbh; Antonio Larossa Jiménez (antlarr-suse)
     the-kid89
+    aleale99
+    Yannick LE NY (yleny-dev)
+    James Vine (jimvine)
