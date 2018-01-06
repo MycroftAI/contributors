@@ -72,3 +72,5 @@ organization.
     aleale99
     Yannick LE NY (yleny-dev)
     James Vine (jimvine)
+    Karl Andersson (khazrak)
+    nielstron
