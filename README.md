@@ -74,3 +74,4 @@ organization.
     James Vine (jimvine)
     Karl Andersson (khazrak)
     nielstron
+    Ceda EI (ceda-ei)
