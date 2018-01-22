@@ -75,3 +75,5 @@ organization.
     Karl Andersson (khazrak)
     nielstron
     Ceda EI (ceda-ei)
+    Theun Kohlbeck (tjoen)
+    IrfanKhalid
