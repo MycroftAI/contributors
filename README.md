@@ -78,3 +78,7 @@ organization.
     Theun Kohlbeck (tjoen)
     IrfanKhalid
     Angel Docampo (adocampo)
+    Kévin Commaille (zecakeh)
+    Jonatan Nyberg (jony0008)
+    Walter Klosse (WalterKlosse)
+    Christopher Rogers (ChristopherRogers1991)
