@@ -82,3 +82,4 @@ organization.
     Jonatan Nyberg (jony0008)
     Walter Klosse (WalterKlosse)
     Christopher Rogers (ChristopherRogers1991)
+    Simon Coe (SiCoe)
