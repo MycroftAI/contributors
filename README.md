@@ -83,3 +83,5 @@ organization.
     Walter Klosse (WalterKlosse)
     Christopher Rogers (ChristopherRogers1991)
     Simon Coe (SiCoe)
+    Carsten Agerskov (CarstenAgerskov)
+    Zachary Welch (zachwelch)
