@@ -94,3 +94,6 @@ organization.
     Patrick Byrne (patrickbyrne)
     Antonio Larossa Jiménez (antlarr)
     InconsolableCellist
+    Benjamin Carr (benjaminhccarr)
+    Greg Cowan (Cowang4)
+    friedger
