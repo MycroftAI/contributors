@@ -98,3 +98,5 @@ organization.
     Greg Cowan (Cowang4)
     friedger
     erabti
+    f-e-l-i-x
+    rigved
