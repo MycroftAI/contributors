@@ -100,3 +100,5 @@ organization.
     erabti
     f-e-l-i-x
     rigved
+    goroboro
+    nate-mycroft
