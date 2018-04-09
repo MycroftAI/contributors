@@ -101,4 +101,4 @@ organization.
     f-e-l-i-x
     rigved
     goroboro
-    nate-mycroft
+    Nathaniel Tomasi (nate-mycroft)
