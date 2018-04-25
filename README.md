@@ -103,3 +103,5 @@ organization.
     goroboro
     Nathaniel Tomasi (nate-mycroft)
     munvier
+    Jussi Tiira (juhi24)
+    juliengk
