@@ -106,3 +106,4 @@ organization.
     Jussi Tiira (juhi24)
     juliengk
     Kassandra Keeton (prosperousheart)
+    Charles Dumais (Quinn2017)
