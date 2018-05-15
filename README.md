@@ -109,3 +109,5 @@ organization.
     Charles Dumais (Quinn2017)
     Regina Bloomstine (reginaneon)
     Craig Maloney (craigmaloney)
+    Zeno Gantner (zenogantner)
+    Patrick Nini (swissistent)
