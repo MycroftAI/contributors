@@ -111,3 +111,5 @@ organization.
     Craig Maloney (craigmaloney)
     Zeno Gantner (zenogantner)
     Patrick Nini (swissistent)
+    jerem0808
+    nabice
