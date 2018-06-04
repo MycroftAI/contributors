@@ -113,3 +113,4 @@ organization.
     Patrick Nini (swissistent)
     jerem0808
     nabice
+    Nguyen Trong Hung (nguyenhungsync)
