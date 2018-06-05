@@ -29,7 +29,7 @@ organization.
     Neal McBurnett (nealmcb)
     Teagan42
     Manoj Kumar Palavalasa (manojDevOps)
-    Mn0491
+    Michael Nguyen (LearnedVector)
     Karl Fezer (kfezer)
     Harika Kothuru (Harika-kothuru)
     Willem Ligtenberg (wligtenberg)
