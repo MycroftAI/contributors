@@ -115,3 +115,4 @@ organization.
     nabice
     Nguyen Trong Hung (nguyenhungsync)
     Zach DeCook (earboxer)
+    Michael Scherer (scherererer)
