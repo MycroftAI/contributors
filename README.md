@@ -129,3 +129,4 @@ organization.
     Dominik Kreutz-Kösler (domcross)
     Timmmy001
     fortwally
+    Linus Skucas (LinusS1)
