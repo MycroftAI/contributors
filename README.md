@@ -130,3 +130,5 @@ organization.
     Timmmy001
     fortwally
     Linus Skucas (LinusS1)
+    Felix Winterhalter (Blackclaws)
+    Ewan McDougall (mrloop)
