@@ -135,3 +135,5 @@ organization.
     Sawyer McLane (samclane)
     gregrs-uk
     Anna Morris (gingerling)
+    RHackrid
+    bhaveshAn
