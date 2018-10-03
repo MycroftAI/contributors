@@ -139,3 +139,4 @@ organization.
     bhaveshAn
     George Ordish (spagy)
     Anushree Jain (anushreejain98)
+    rizdaprasetya
