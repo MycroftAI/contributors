@@ -145,3 +145,4 @@ organization.
     Gorla Praveen (gorlapraveen)
     nils
     Francis Tyers (ftypers)
+    Khuong Nguyen (jamesknguyendev)
