@@ -150,3 +150,4 @@ organization.
     Kris Gesling (krisgesling)
     Gaurav Juvekar (gauravjuvekar)
     Björn Adler (westfalenyeti)
+    Rajdeep Nanua (nanuaraj)
