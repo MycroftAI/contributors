@@ -152,3 +152,4 @@ organization.
     Björn Adler (westfalenyeti)
     Rajdeep Nanua (nanuaraj)
     12buntu
+    Jamie Muñoz Martin (kayron8)
