@@ -153,3 +153,5 @@ organization.
     Rajdeep Nanua (nanuaraj)
     12buntu
     Jamie Muñoz Martin (kayron8)
+    Dániel Vinkovics (danielwine)
+    Jaime van Kessel (nallath)
