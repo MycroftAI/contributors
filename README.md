@@ -38,6 +38,7 @@ organization.
     ashwinjv
     Ante Kegalj (akegalj)
     Sujan4k0
+    Stefan Burke (StefanBCN)
     el-tocino
     Sergio Oller Moreno (zeehio)
     Brian Hopkins (btotharye)
