@@ -167,3 +167,4 @@ organization.
     Western Digital; Alistair Francis (alistair23)
     Parker Seaman (impearker)
     Luis Reinoso Calero (luisreinoso)
+    Daniel McKnight (djmcknight358)
