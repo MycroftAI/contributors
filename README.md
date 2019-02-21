@@ -169,3 +169,4 @@ organization.
     Luis Reinoso Calero (luisreinoso)
     Daniel McKnight (djmcknight358)
     Ofek Lev (ofek)
+    Randy Friend (tiredoftry)
