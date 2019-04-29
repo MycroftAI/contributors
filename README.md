@@ -174,3 +174,4 @@ organization.
     builderjer
     Ruthvic Punyamurtula (ruthvicp)
     Vitaly Zdanevich (vitaly-zdanevich)
+    Thomas Doczkal (doczkal)
