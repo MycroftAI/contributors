@@ -176,3 +176,6 @@ organization.
     Vitaly Zdanevich (vitaly-zdanevich)
     Thomas Doczkal (doczkal)
     Rob Hernandez (sarcasticadmin)
+    Ben Klopfenstein (benklop)
+    FruityWelsh
+    Katec Cnaveral (katecanaveral)
