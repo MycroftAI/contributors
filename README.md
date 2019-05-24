@@ -180,3 +180,6 @@ organization.
     FruityWelsh
     Katec Cnaveral (katecanaveral)
     fractal13
+    Thomas Meissner (motom001)
+    simonmicro
+    
