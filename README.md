@@ -182,4 +182,5 @@ organization.
     fractal13
     Thomas Meissner (motom001)
     simonmicro
+    Tanel Alumäe (alumae)
     
