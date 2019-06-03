@@ -145,7 +145,7 @@ organization.
     mpolidori
     Gorla Praveen (gorlapraveen)
     nils
-    Francis Tyers (ftypers)
+    Francis Tyers (ftyers)
     Khuong Nguyen (jamesknguyendev)
     william23o
     Kris Gesling (krisgesling)
