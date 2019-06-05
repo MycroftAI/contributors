@@ -183,4 +183,5 @@ organization.
     Thomas Meissner (motom001)
     simonmicro
     Tanel Alumäe (alumae)
+    Johannes Lippmann (Kaligule)
     
