@@ -178,7 +178,7 @@ organization.
     Rob Hernandez (sarcasticadmin)
     Ben Klopfenstein (benklop)
     FruityWelsh
-    Katec Cnaveral (katecanaveral)
+    Kate Canaveral (katecanaveral)
     fractal13
     Thomas Meissner (motom001)
     simonmicro
