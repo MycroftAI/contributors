@@ -187,3 +187,5 @@ organization.
     Joshua Watt (JPEWdev)
     David Wagner (davidwagnerkc)
     MichaIng
+    aurora-of-earth
+    Alexander Jordan (strugee)
