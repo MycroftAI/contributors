@@ -189,3 +189,4 @@ organization.
     MichaIng
     aurora-of-earth
     Alexander Jordan (strugee)
+    Chris Veilleux (chrisveilleux)
