@@ -188,6 +188,6 @@ organization.
     David Wagner (davidwagnerkc)
     MichaIng
     aurora-of-earth
-    Alexander Jordan (strugee)
+    AJ Jordan (strugee)
     Chris Veilleux (chrisveilleux)
     Kevin Cole (kjcole)
