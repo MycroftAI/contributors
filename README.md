@@ -190,3 +190,4 @@ organization.
     aurora-of-earth
     Alexander Jordan (strugee)
     Chris Veilleux (chrisveilleux)
+    Kevin Cole (kjcole)
