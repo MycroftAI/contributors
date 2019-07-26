@@ -191,3 +191,5 @@ organization.
     AJ Jordan (strugee)
     Chris Veilleux (chrisveilleux)
     Kevin Cole (kjcole)
+    fermulator
+    
