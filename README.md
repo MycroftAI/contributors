@@ -192,4 +192,6 @@ organization.
     Chris Veilleux (chrisveilleux)
     Kevin Cole (kjcole)
     fermulator
-    
+    Stacy Webb (stacywebb)
+    Kristin Rain Leander (rainleander)
+    Christian Persson (c0r73x)
