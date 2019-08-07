@@ -195,3 +195,5 @@ organization.
     Stacy Webb (stacywebb)
     Kristin Rain Leander (rainleander)
     Christian Persson (c0r73x)
+    Christian Clauss (cclauss)
+    
