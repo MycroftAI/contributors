@@ -197,3 +197,8 @@ organization.
     Christian Persson (c0r73x)
     Christian Clauss (cclauss)
     Andrea Colarieti Tosti (colla69)
+    Max Coplan (vegerot)
+    Andrew Kish (KishCom)
+    Christine E. Taylor (christineetaylor)
+    Alex Mauney (mathmauney)
+    Austin Carnahan (austin-carnahan)
