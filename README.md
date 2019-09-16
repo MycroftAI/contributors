@@ -202,3 +202,5 @@ organization.
     Christine E. Taylor (christineetaylor)
     Alex Mauney (mathmauney)
     Austin Carnahan (austin-carnahan)
+    ChanceNCounter
+    Kirill Sergeevich Kirilenko (UltraCoderRU)
