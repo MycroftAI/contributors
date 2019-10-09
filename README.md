@@ -204,3 +204,5 @@ organization.
     Austin Carnahan (austin-carnahan)
     ChanceNCounter
     Kirill Sergeevich Kirilenko (UltraCoderRU)
+    Snips; Marc Trey (mtrey)
+    
