@@ -205,4 +205,6 @@ organization.
     ChanceNCounter
     Kirill Sergeevich Kirilenko (UltraCoderRU)
     Snips; Marc Trey (mtrey)
-    
+    Stephan Schildberg (scoid)
+    Ryan Zidago (ryanzidago)
+    Moritz Glöckl (moritzgloeckl)
