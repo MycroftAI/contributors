@@ -209,3 +209,6 @@ organization.
     Ryan Zidago (ryanzidago)
     Moritz Glöckl (moritzgloeckl)
     prosenkiewicz
+    Ashish Dave (ad-hacker99)
+    Christian Hachenberg (repodiac)
+    souravsingh
