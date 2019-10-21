@@ -213,3 +213,4 @@ organization.
     Christian Hachenberg (repodiac)
     souravsingh
     brennerm
+    fjeicam
