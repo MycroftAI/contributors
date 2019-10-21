@@ -212,3 +212,4 @@ organization.
     Ashish Dave (ad-hacker99)
     Christian Hachenberg (repodiac)
     souravsingh
+    brennerm
