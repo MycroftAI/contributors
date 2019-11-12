@@ -218,3 +218,4 @@ organization.
     speedfox-uk
     balisujohn
     Antonio Maciej Matamoros Ochman (antoniomaciej)
+    Jonathan Mark Goins (laurapalmerstolemyheart)
