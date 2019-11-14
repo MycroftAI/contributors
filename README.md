@@ -221,3 +221,4 @@ organization.
     Jonathan Mark Goins (laurapalmerstolemyheart)
     Kelly Anderson (cbxbiker61)
     Mike Woudenberg (mikewoudenberg)
+    Max Bachmann (maxbachmann)
