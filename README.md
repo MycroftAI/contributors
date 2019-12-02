@@ -223,3 +223,4 @@ organization.
     Mike Woudenberg (mikewoudenberg)
     Max Bachmann (maxbachmann)
     gbaptista
+    Sylvia van Os (TheLastProject)
