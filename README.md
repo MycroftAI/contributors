@@ -225,3 +225,4 @@ organization.
     gbaptista
     Sylvia van Os (TheLastProject)
     GustavMauler
+    Thorsten Müller (thorstenMueller)
