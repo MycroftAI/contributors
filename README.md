@@ -226,3 +226,4 @@ organization.
     Sylvia van Os (TheLastProject)
     GustavMauler
     Thorsten Müller (thorstenMueller)
+    Philipp Fischbeck (PFischbeck)
