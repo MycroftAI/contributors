@@ -227,3 +227,4 @@ organization.
     GustavMauler
     Thorsten Müller (thorstenMueller)
     Philipp Fischbeck (PFischbeck)
+    Peter Giacomo Lombardo (pglombardo)
