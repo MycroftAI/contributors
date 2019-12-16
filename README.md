@@ -228,3 +228,4 @@ organization.
     Thorsten Müller (thorstenMueller)
     Philipp Fischbeck (PFischbeck)
     Peter Giacomo Lombardo (pglombardo)
+    Krasimir Nedelchev (kaykayehnn)
