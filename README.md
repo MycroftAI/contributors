@@ -202,7 +202,7 @@ organization.
     Christine E. Taylor (christineetaylor)
     Alex Mauney (mathmauney)
     Austin Carnahan (austin-carnahan)
-    ChanceNCounter
+    Chance Rosenthal (ChanceNCounter)
     Kirill Sergeevich Kirilenko (UltraCoderRU)
     Snips; Marc Trey (mtrey)
     Stephan Schildberg (scoid)
