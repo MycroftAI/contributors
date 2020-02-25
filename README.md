@@ -238,3 +238,4 @@ organization.
     Peter Steenbergen (j1nx)
     Stuart Ian Naylor (StuartIanNaylor)
     Francesco Belvedere (belvederef)
+    GommeAntiLegit
