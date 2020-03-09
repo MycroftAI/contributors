@@ -239,3 +239,4 @@ organization.
     Stuart Ian Naylor (StuartIanNaylor)
     Francesco Belvedere (belvederef)
     GommeAntiLegit
+    Fabrice Fontaine (ffontaine)
