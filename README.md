@@ -240,3 +240,4 @@ organization.
     Francesco Belvedere (belvederef)
     GommeAntiLegit
     Fabrice Fontaine (ffontaine)
+    Gwendal Roulleau (dalgwen)
