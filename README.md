@@ -244,3 +244,4 @@ organization.
     tycrek
     Henri Herrera (xPh03niX)
     Michael Lewis (Metagamer)
+    Thariq Shanavas (thariq-shanavas)
