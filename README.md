@@ -245,3 +245,4 @@ organization.
     Henri Herrera (xPh03niX)
     Michael Lewis (Metagamer)
     Thariq Shanavas (thariq-shanavas)
+    Brian Tarricone (kelnos)
