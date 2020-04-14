@@ -246,3 +246,4 @@ organization.
     Michael Lewis (Metagamer)
     Thariq Shanavas (thariq-shanavas)
     Brian Tarricone (kelnos)
+    Luca Vercelli (luca-vercelli)
