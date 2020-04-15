@@ -248,3 +248,4 @@ organization.
     Brian Tarricone (kelnos)
     Luca Vercelli (luca-vercelli)
     andreselizondo-adestech
+    Antonín Skala (Tony763)
