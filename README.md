@@ -247,5 +247,5 @@ organization.
     Thariq Shanavas (thariq-shanavas)
     Brian Tarricone (kelnos)
     Luca Vercelli (luca-vercelli)
-    andreselizondo-adestech
+    ADES Technologies (andreselizondo-adestech)
     Antonín Skala (Tony763)
