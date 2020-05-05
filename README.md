@@ -254,3 +254,4 @@ organization.
     Cody Reinold (codyreinold)
     Bart Ribbers (PureTryOut)
     stratus-ss
+    Rafal Janicki (rafaljanicki)
