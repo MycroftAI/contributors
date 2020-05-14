@@ -255,3 +255,4 @@ organization.
     Bart Ribbers (PureTryOut)
     stratus-ss
     Rafal Janicki (rafaljanicki)
+    Evangelos Stogiannos (stovag)
