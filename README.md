@@ -258,5 +258,5 @@ organization.
     Evangelos Stogiannos (stovag)
     Yoshiaki Yamada (ysak-y)
     girgalicious
-    UC Irvine Department of Informatics - INsite Lab (insitelabdev)
+    UC Irvine Department of Informatics - INsite Lab (INsiteLabDev)
     Szabolcs Bence (Drout)
