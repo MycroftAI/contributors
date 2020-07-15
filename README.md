@@ -268,3 +268,4 @@ organization.
     Baybars Külebi (gullabi)
     Benjamin Pepper (pepperbc)
     Marc Verdi (hammyMarc)
+    Jamesmf
