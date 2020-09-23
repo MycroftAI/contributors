@@ -284,3 +284,4 @@ organization.
     Noam Preil (pixelherodev)
     hughwilliams94
     Philipp Henning (junivex)
+    DIR Wiesława Rozynek; Tomasz Rozynek (r0d0dendr0n)
