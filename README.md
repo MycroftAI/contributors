@@ -287,3 +287,4 @@ organization.
     DIR Wiesława Rozynek; Tomasz Rozynek (r0d0dendr0n)
     Gaganpreet Arora (gaganpreet)
     Titus Joyson (titusjoyson)
+    Dario (damorosodaragona)
