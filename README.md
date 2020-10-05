@@ -289,3 +289,4 @@ organization.
     Titus Joyson (titusjoyson)
     Dario (damorosodaragona)
     Joshua Harwood (joshuajaharwood)
+    Damon Hayhurst (damonhayhurst)
