@@ -288,3 +288,4 @@ organization.
     Gaganpreet Arora (gaganpreet)
     Titus Joyson (titusjoyson)
     Dario (damorosodaragona)
+    Joshua Harwood (joshuajaharwood)
