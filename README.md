@@ -291,3 +291,4 @@ organization.
     Joshua Harwood (joshuajaharwood)
     Damon Hayhurst (damonhayhurst)
     Ryan J. Yoder (ryanjyoder)
+    Juri Calleri (Nihvel)
