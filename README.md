@@ -292,3 +292,4 @@ organization.
     Damon Hayhurst (damonhayhurst)
     Ryan J. Yoder (ryanjyoder)
     Juri Calleri (Nihvel)
+    s-wel
