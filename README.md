@@ -294,3 +294,4 @@ organization.
     Juri Calleri (Nihvel)
     s-wel
     filips123
+    Bart De Wit (bartdw)
