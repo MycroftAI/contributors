@@ -296,3 +296,4 @@ organization.
     filips123
     Bart De Wit (bartdw)
     marvin-w
+    Lam Nguyen Hoang (lnguyenh)
