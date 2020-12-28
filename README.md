@@ -301,3 +301,4 @@ organization.
     Bulwagga
     fa7ad
     bboutier
+    Gaëtan Trellu (Goldyfruit)
