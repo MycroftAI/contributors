@@ -303,3 +303,4 @@ organization.
     bboutier
     Gaëtan Trellu (Goldyfruit)
     justinlynn
+    Timothy Gates (timgates42)
