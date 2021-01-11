@@ -305,3 +305,4 @@ organization.
     justinlynn
     Timothy Gates (timgates42)
     kw0314
+    Brian Resnick (bjrati)
