@@ -309,3 +309,4 @@ organization.
     Andrii Pernatii (NeonAndrii)
     caoba1
     Alex Zeh (azaz78)
+    Miika Mäkelä (miikama)
