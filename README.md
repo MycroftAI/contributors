@@ -326,3 +326,4 @@ organization.
     Amol Jagadambe (amoljagadambe)
     Mike Jones (nimpo)
     olzeke51
+    Jonathan Brier (brierjon)
