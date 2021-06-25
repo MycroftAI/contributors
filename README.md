@@ -328,3 +328,4 @@ organization.
     olzeke51
     Jonathan Brier (brierjon)
     Yang Yunyi (Badboy-16)
+    Karoly Barcza (blackPantherOS)
