@@ -1,8 +1,13 @@
-Languages
+Languages Team
 ============
-Team building the [Lingua Franca](https://github.com/mycroftai/lingua-franca) multilingual parsing and formatting library.
+Team maintaining the [Lingua Franca](https://github.com/mycroftai/lingua-franca) multilingual parsing and formatting library.
 
-Active Members
-=============
+## Active Members
+
+* [ChanceNCounter](https://github.com/chancencounter)
+* Kris Gesling ([@krisgesling](https://github.com/krisgesling), kris.gesling@mycroft.ai)
+
+## Past Members
+
 * [@JarbasAl](https://github.com/JarbasAl)
-* Steve Penrod ([@penrods](https://github.com/penrods), steve.penrod@mycroft.ai), Maintainer
+* Steve Penrod ([@penrods](https://github.com/penrods))
