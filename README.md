@@ -8,6 +8,7 @@ organization.
 
 ---
     Joshua Montgomery (joshua-montgomery)
+    Ryan Sipes (ryanleesipes)
     Arron Atchison (aatchison)
     Jonathan D'Orleans (jdorleans)
     clusterfudge
