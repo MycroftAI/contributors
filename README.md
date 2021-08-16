@@ -333,3 +333,4 @@ organization.
     Ryan Voots (Simcop2387)
     Elhuyar Fundazioa; Igor Leturia (e-gor)
     Astrolabe CAE; Philippe Coval (rzr)
+    Fabio Giovanazzi (Stypox)
