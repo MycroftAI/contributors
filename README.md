@@ -337,3 +337,4 @@ organization.
     Tiago Chiaveri da Costa (tiagochiavericosta)
     Joan Palacios Beltran (Joanguitar)
     Kleo Bercero (kleo)
+    Chris McDonough (mcdonc)
