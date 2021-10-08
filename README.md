@@ -339,3 +339,4 @@ organization.
     Kleo Bercero (kleo)
     Chris McDonough (mcdonc)
     Siavash Mollayi (siathon)
+    Jeremy King (kingpinzs)
