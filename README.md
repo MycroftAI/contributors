@@ -338,6 +338,5 @@ organization.
     Joan Palacios Beltran (Joanguitar)
     Kleo Bercero (kleo)
     Chris McDonough (mcdonc)
-    Siavash Mollayi (siathon)
     Jeremy King (kingpinzs)
     Saymantech; Siavash Mollayi (siathon)
