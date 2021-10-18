@@ -341,3 +341,5 @@ organization.
     Jeremy King (kingpinzs)
     Saymantech; Siavash Mollayi (siathon)
     Saymantech; Muhamed Husain Asadi (mhasadi78)
+    Saymantech (saymantech-co)
+    Saymantech (saymantech-org)
