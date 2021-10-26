@@ -302,7 +302,7 @@ organization.
     Bulwagga
     fa7ad
     bboutier
-    Gaëtan Trellu (Goldyfruit)
+    Gaëtan Trellu (goldyfruit)
     justinlynn
     Timothy Gates (timgates42)
     kw0314
