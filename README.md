@@ -345,3 +345,4 @@ organization.
     Saymantech (saymantech-org)
     Caleb Trevatt (in03)
     Sergey Leschina (putnik)
+    Jesse Cooper (jessecooper)
