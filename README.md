@@ -347,3 +347,4 @@ organization.
     Sergey Leschina (putnik)
     Jesse Cooper (jessecooper)
     Genei180
+    Conor Anderson (ConorIA)
