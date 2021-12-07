@@ -353,3 +353,4 @@ organization.
     Bahadir Yaren (rooky-c3bo)
     pfefferle
     HFabi
+    Guillaume Nibert (guillaumenibert)
