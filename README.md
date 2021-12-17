@@ -354,3 +354,4 @@ organization.
     pfefferle
     HFabi
     Guillaume Nibert (guillaumenibert)
+    mikejgray
