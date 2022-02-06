@@ -355,3 +355,4 @@ organization.
     HFabi
     Guillaume Nibert (guillaumenibert)
     mikejgray
+    dokime7
