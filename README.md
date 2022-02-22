@@ -361,3 +361,4 @@ organization.
     xstable
     TheRealDGD
     Mic92
+    pynolo
