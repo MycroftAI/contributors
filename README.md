@@ -369,3 +369,4 @@ organization.
     khionu
     ceich
     zeronounours
+    hslr4
