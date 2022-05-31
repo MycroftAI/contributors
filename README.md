@@ -370,3 +370,4 @@ organization.
     ceich
     zeronounours
     hslr4
+    Denis Pitzalis (denics)
