@@ -373,3 +373,4 @@ organization.
     Denis Pitzalis (denics)
     Elias Ball (blue1stone)
     Þorsteinn Sævar Kristjánsson (kksteini)
+    Elizabeth Doughty (Thymelizabeth)
