@@ -376,3 +376,4 @@ organization.
     Elizabeth Doughty (Thymelizabeth)
     STOPchemS
     takov751
+    Samuel Thibault (sthibaul)
