@@ -377,3 +377,4 @@ organization.
     STOPchemS
     takov751
     Samuel Thibault (sthibaul)
+    Mariia Razno (NeonMariia)
