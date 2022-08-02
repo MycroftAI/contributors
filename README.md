@@ -379,3 +379,4 @@ organization.
     Samuel Thibault (sthibaul)
     Mariia Razno (NeonMariia)
     tonydamage
+    Ben Osheroff (osheroff)
