@@ -385,3 +385,4 @@ organization.
     MrTheBarbarian
     Guy Martin (gmsoft-tuxicoman)
     Falderebet
+    Dominique Leuenberger (DimStar77)
