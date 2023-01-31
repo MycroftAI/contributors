@@ -393,3 +393,4 @@ organization.
     Sebastian Noel Lübke (SebastianLuebke)
     Emile2020
     dasrakel
+    MarcHasselbach
