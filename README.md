@@ -61,7 +61,7 @@ organization.
     Anunay Jain (Anunayj)
     Harald Sitter (apachelogger)
     James Rhett Aultman (roadriverrail)
-    Jonas Blahut (DarkPhoenix)
+    Ash Blahut (darkphoenix)
     gras64
     Anusree Kailash (akailash)
     Tobias Knöppler (theCalcaholic)
